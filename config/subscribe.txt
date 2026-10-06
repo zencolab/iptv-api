@@ -2,10 +2,14 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
-
-
-
+# 2026-10-06 已验证：近两周内有更新，且 IPv4 抽测可用
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
+https://raw.githubusercontent.com/zhi35/iptv/master/iptv.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
+https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.m3u
+https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u
+https://raw.githubusercontent.com/CCSH/IPTV/main/live.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
